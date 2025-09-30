@@ -9,7 +9,7 @@ Techniques: Modeling, Joining, Maps, Dashboards
 
 Here’s what the dashboard looks like:
 
-![Dashboard Demo](Screenshot 2025-09-30 135717.png)
+![Dashboard Demo](images/BankingDashboardGIF.gif)
 
 
 
