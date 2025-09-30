@@ -9,9 +9,7 @@ Techniques: Modeling, Joining, Maps, Dashboards
 
 Here’s what the dashboard looks like:
 
-![Dashboard Demo](Screen Recording 2025-09-30 135813.mp4)
-
-![Dashboard Demo](Screen Recording 2025-09-30 140135.mp4)
+![Dashboard Demo](Screenshot 2025-09-30 135717.png)
 
 
 
